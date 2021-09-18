@@ -1,9 +1,8 @@
 # 🖐🏻 Hi there, I'm **Mary**!
 
 ## I'm beginner *Front-end developer* from Moscow!
-- 🔭 I recently completed a course from [Yandex.Praktikum](https://praktikum.yandex.ru/web)!
-- ⚡ I’m currently learning [React](https://reactjs.org/)
-- 💻 I’m currently working for a startup and looking for a [job](https://hh.ru/resume/a811589dff08aa1d780039ed1f3269596e594c)
+- 💻 I’m currently studying at Rolling Scopes School and looking for a [job](https://hh.ru/resume/a811589dff08aa1d780039ed1f3269596e594c)
+- 🔭 I recently completed Web development and React development courses from Yandex.Practicum [Yandex.Praktikum](https://praktikum.yandex.ru)!
 - 🎯 My [codewars profile](https://www.codewars.com/users/MeryMegg)
 
 
